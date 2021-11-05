@@ -23,5 +23,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 - Make it work ✅
 - Create components ✅
 - Front integration ✅
+- Make a 404 page
 - Test coverage with Jest 
 - Use Typescript
