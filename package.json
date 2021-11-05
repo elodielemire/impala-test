@@ -1,5 +1,5 @@
 {
-  "name": "impala-tets",
+  "name": "books-searching",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "eslint": "7",
-    "eslint-config-next": "12.0.2"
+    "eslint-config-next": "12.0.2",
+    "jest": "^27.3.1"
   }
 }
